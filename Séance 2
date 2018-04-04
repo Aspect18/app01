@@ -1,0 +1,18 @@
+Séance 2
+dans CMD:
+npm init
+entry point = app.js ou laisser tel quel
+test command = node app.js
+=====================================
+github 
+git init
+git add.
+git commit -m "First commit"
+creer un nouveau repo sous git hub
+git remote add origin url_repo
+git push -u origin master
+=== to update ur repo ==
+git add.
+git commit-m "my changes"
+git push
+install npm mangodb
